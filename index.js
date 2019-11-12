@@ -5,3 +5,5 @@ function preventRefreshOnSubmit(){
 }
 
 preventRefreshOnSubmit()
+
+let input = document.querySelector('input');
